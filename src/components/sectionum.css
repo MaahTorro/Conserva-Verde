@@ -1,0 +1,80 @@
+.img-section-socorro {
+    height: 500px;
+    background-image: url(../../src/assets/img/floresta.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.text-section {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 60px;
+    width: 12450px;
+    font-size: 52px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    text-align: center;
+}
+
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.diferencial-single {
+    cursor: pointer;
+    box-shadow: 0px 1px 3px 1px #3a3a3a60;
+    background-color: #f0f0f0;
+    width: 300px;
+    height: 300px ;
+    padding: 40px 10px;
+    border-radius: 10px;
+    margin: 0 10px;
+    transition: all 0.2s ease-in-out;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+}
+
+.diferencial-single h2 {
+    color: #5c9952;
+    margin: 10px 0;
+    font-size: 17px;
+}
+
+.diferencial-single p {
+    color: #242424;
+    font-size: 14px;
+    line-height: 26px;
+    align-self: center;
+}
+
+
+
+.diferencial-single:hover {
+    transform: scale(1.05);
+}
+
+.center {
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+
+}
+
+.diferenciais {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,0 +1,29 @@
+.bgfloresta { 
+    background-image: url(../assets/img/bgfloresta.jpg);
+    width: 100%;
+    height: 663px;
+}
+
+.titulosobre {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 35px;
+}
+
+.texttitulosobre {
+    margin: 0;
+    margin-left: 80px;
+    margin-top: 90px;
+    -webkit-text-stroke: 0.001px rgb(29, 25, 25);
+    color: white;
+}
+
+.textosobreprincipal {
+    color: white;
+    display: flex;
+    max-width: 560px;
+    margin-left: 100px;
+    margin-top: 15px;
+    font-size: 18px;
+}
+

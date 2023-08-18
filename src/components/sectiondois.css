@@ -1,0 +1,80 @@
+.img-section-teste {
+    border: 2px #132700 solid;
+    height: 200px;
+    background-image: url(../../src/assets/img/fundo2.jpg);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-section2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 40px;
+    width: 300px;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    text-align: center;
+    border-radius: 9px 9px 9px 9px;
+}
+
+.diferencial-single2 {
+    cursor: pointer;
+    box-shadow: 0px 1px 3px 1px #3a3a3a60;
+    background-color: #f0f0f0;
+    width: 470px;
+    height: 330px ;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+.card-text {
+    color: #242424;
+}
+
+
+.imagemfds {
+    padding: 30px;
+    width: 400px;
+    height: 250px;
+    background-image: url(../assets/img/Conservacao-do-Solo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    border: #132700 1px solid;
+}
+
+.centro-section-dois {
+    margin-top: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 80px;
+}
+
+.card {
+    background-size: cover;
+    background-position: center;
+    background-image: url(../../src/assets/img/bgcard.png);
+    overflow-y: hidden;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+    width: 400px;
+    height: 250px;
+    cursor: pointer;
+    box-shadow: 0px 1px 3px 1px #3a3a3a60;
+}
+
+h2 {
+    color: #5c9952;
+}

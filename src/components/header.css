@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    background-color: #132700;
+    color: #FFFF;
+    height: 100px;
+}
+
+.lista {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 360px;
+}
+
+.lista-botao {
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+.divisao {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    width: 140px;
+    height: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    background-image: url(../../src/assets/img/logo.svg);
+}
