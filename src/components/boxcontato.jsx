@@ -15,6 +15,12 @@ function BoxContato() {
           <h2 className="titulotext">Envie-nos uma mensagem!</h2>
           <p className="texto">
           Estamos aqui para ouvir você. Compartilhe suas perguntas, sugestões e preocupações preenchendo o formulário abaixo. Sua mensagem é importante para nós e será tratada com cuidado pela nossa equipe.
+         <br />
+         <br />
+          Número: (11) 987654321
+          <br />
+          <br />
+          Email: conservaverde@gov.com.br
           </p>
         </div>
 

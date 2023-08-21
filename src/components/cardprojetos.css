@@ -5,8 +5,8 @@
 }
 
 .cardpro {
-    background-color: white;
-    width: 300px;
+    background-color: rgb(218, 235, 211);
+    width: 330px;
     height: 450px;
     display: flex;
     flex-direction: column;
@@ -30,4 +30,8 @@
 
 h1 {
     font-size: 26px;
+}
+
+.texto {
+    margin-top: 0;
 }
